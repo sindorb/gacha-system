@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
     let result = document.getElementById('result');
     const rarities = {
-        plus1: 0.5,
-        plus2: 0.35,
-        plus3: 0.15
+        plus1: 0.65,
+        plus2: 0.30,
+        plus3: 0.05
     };
     const items = [
         // +
